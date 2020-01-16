@@ -9,5 +9,3 @@ win7/python3
 scrapy crawl aitaotu
 ### 结果
 ![](https://github.com/EExplode/scrapy_aitaotu/raw/master/11.png)
-![](https://github.com/EExplode/scrapy_aitaotu/raw/master/22.png)
-![](https://github.com/EExplode/scrapy_aitaotu/raw/master/33.png)
