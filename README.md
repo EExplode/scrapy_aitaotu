@@ -1,5 +1,5 @@
 ### 描述
-使用scrapy爬取([https://www.aitaotu.com/](https://www.aitaotu.com/))  
+使用scrapy爬取([https://www.aitaotu.com/](https://www.aitaotu.com/))图片  
 信息保存至MongoDB、MySQL，图片保存至根目录
 ### 关键字
 python、scrapy、MongoDB、MySQL、Images Pipeline
